@@ -10,3 +10,6 @@
 * If you have any issues or need to change anything ruby related just restart the container with:
     1. `docker-compose down`
     1. `docker-compose up`
+
+
+Edit: I love Middleman but apparently the middleman-blog plugin appears to be no longer maintained and I switched to Jekyll. 
