@@ -12,4 +12,4 @@
     1. `docker-compose up`
 
 
-Edit: I love Middleman but apparently the middleman-blog plugin appears to be no longer maintained and I switched to Jekyll. 
+Edit: I love Middleman but apparently the [middleman-blog plugin](https://github.com/middleman/middleman-blog) appears to be no longer maintained and I switched to Jekyll. 
